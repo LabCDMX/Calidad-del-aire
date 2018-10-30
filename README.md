@@ -9,7 +9,7 @@ Como parte de la convocatoria CodigoCDMX, coordinada por el Laboratorio para la 
 
 Este repositorio contiene el código utilizado para hacer el análisis comparativo entre los datos producidos por los sensores de Smability y el del SIMAT, especificamente para partículas PM2.5. La estación del SIMAT se llama Laboratorio de Analisis Ambiental y se encuentra en Vallejo. 
 
-Con el código se pueden generar las siguientes gráficas:
+Con el código y los datos se pueden generar las siguientes gráficas:
 
 ![alt text](https://github.com/LabCDMX/Calidad-del-aire/blob/master/Historico.JPG)
 ![alt text](https://github.com/LabCDMX/Calidad-del-aire/blob/master/BlandAltman.jpg)
