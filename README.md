@@ -1,8 +1,6 @@
-# Calidad del Aire: 
+# Medición de contaminantes en el aire a nivel peatonal
 
-## Medición de contaminantes en el aire a nivel peatonal
-
-## Descripción de tu proyecto en un tweet: 
+### Descripción de tu proyecto en un tweet: 
 “Transparencia al aire que respiras”
 
 ## Acerca del proyecto
