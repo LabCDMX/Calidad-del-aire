@@ -11,7 +11,7 @@ Este repositorio contiene el código utilizado para hacer el análisis comparati
 
 Con el código se pueden generar las siguientes gráficas:
 
-![alt text](https://github.com/LabCDMX/Calidad-del-aire/blob/master/Historico.jpg)
+![alt text](https://github.com/LabCDMX/Calidad-del-aire/blob/master/Historico.JPG)
 ![alt text](https://github.com/LabCDMX/Calidad-del-aire/blob/master/BlandAltman.jpg)
 ![alt text](https://github.com/LabCDMX/Calidad-del-aire/blob/master/Comparativa.jpg)
 
