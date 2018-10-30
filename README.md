@@ -31,7 +31,7 @@ El usuario debe instalar las siguientes librerías en R para poder ejecutar el p
 - rJava # Java & R library
 - xlsx # Excel library
 
-### Ejecución
+### Ejecución 
 El programa se ejecuta completo o por partes para poder producir las gráficas e indicadores estadísticos de la comparación entre los dos sensores
 
 ## Contribuye
