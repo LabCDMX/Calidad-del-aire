@@ -3,6 +3,8 @@
 ### Descripción de tu proyecto en un tweet: 
 “Transparencia al aire que respiras”
 
+![alt text](https://github.com/LabCDMX/Calidad-del-aire/blob/master/Comparativa.jpg)
+
 ## Acerca del proyecto
 ### Descripción del proyecto 
 Como parte de la convocatoria CodigoCDMX, coordinada por el Laboratorio para la Ciudad, se desarrollaron tres sensores de calidad del aire (uno fijo + dos sensores móviles), con capacidad de subir datos sobre la calidad a nuestra plataforma en tiempo real. El sensor fijo se desarrolló de tal manera que se pudiera instalar en una de las estaciones del Sistema de Monitoreo Atmosférico de la Ciudad de México (SIMAT), para poder hacer un análisis comparativo entre los datos producidos por los sensores de Smability y los del SIMAT, dicho sensor mide monóxido de carbono, partículas PM2.5, humedad y temperatura. Los dos sensores móviles sirvieron para el levantamiento de datos a nivel peatonal, y sólo pueden medir partículas finas PM2.5, hora y GPS en su modalidad de sensores portátiles.
