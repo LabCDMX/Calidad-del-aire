@@ -40,6 +40,8 @@ El código y las funciones contenidas en el pueden ser de interés para cualquie
 
 Para contribuir al proyecto podrían mejorar el código haciendolo más eficiente, mejorando las visualizaciones. Si se está comparando otros datasets o sensores podrían incluir los datos y el código empleado para procesarlos.
 
+El repositorio también cuenta con los datos generados en los levantamientos de datos que se hicieron en el centro de la ciudad, elaborado por el LabCDMX, en un archivo denominado: "Datos del experimento de recorridos.xlsx". Para este archivo, Smability no hizo procesamiento de datos, por lo que puede ser un área interesante de colaboración civica para quien decida usarlos.
+
 ## Créditos
 La autoría de este código es de Smability SAPI, Startup mexicana en Internet de las Cosas (Internet of Things - IoT)
 
